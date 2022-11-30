@@ -1,0 +1,29 @@
+.all{
+    padding-top: 150px;
+    padding-left: 530px;
+    margin: -8px;
+    display: block;
+    align-items: center;
+    justify-content: center; 
+    height: 120vh;
+    background-color: #FFDDD2;
+}
+
+.fix-email{
+    margin-top: 20px;
+}
+
+.fix-phone{
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.btn-primary{
+    margin-top: 20px;
+    margin-right: 40px;
+    color: white;
+    background-color: #FF8787;
+    font-weight: 600;
+}
+
+
